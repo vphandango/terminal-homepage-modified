@@ -1,1 +1,1 @@
-terminal-homepage-modified
+Modification of xprmt's "Terminal" homepage, check out the original on https://github.com/xprmt/xprmt.github.io/tree/master/terminal
