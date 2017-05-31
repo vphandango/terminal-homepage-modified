@@ -111,6 +111,8 @@ var hookCommands = [
 var bookmarks = [
     ['twitter', 'https://tweetdeck.twitter.com/'],
     ['facebook', "https://www.facebook.com/"],
+    ['plex', "https://app.plex.tv/"],
+    ['github', "http://github.com/vphandango"],
 ]
 
 function name(str) {
